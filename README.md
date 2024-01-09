@@ -7,11 +7,5 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [FastChat](https://github.com/lm-sys/FastChat)               | ![Stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social) | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. |
 | [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | ![Stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social) | local knowledge based LLM (like ChatGLM) QA app with langchain |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
+| [langchain](https://github.com/langchain-ai/langchain)       | ![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social) | Building applications with LLMs through composability        |
 
